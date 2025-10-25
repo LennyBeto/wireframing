@@ -1,6 +1,6 @@
 
 
-# Wireframing in the Design Process
+# Wireframing in the Design Process 
 
 ## What is Wireframing?
 Wireframing is a crucial step in the design process that provides a blueprint or skeletal framework for a website or application. It focuses on defining the basic structure, layout, and navigation flow without incorporating detailed visual design elements such as colors, fonts, or images. Wireframes help map out how users will interact with the interface and how content will be organized.
